@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Graphical_TSP", "aima-csharp\Simple_Graphical_TSP.csproj", "{125F53D5-1CCF-4DAF-82FE-4324686CF417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AustraliaMapVisualizer", "AustraliaMapVisualiser\AustraliaMapVisualizer.csproj", "{5ED22E57-5C4A-44CC-A90A-934FD413CFD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125F53D5-1CCF-4DAF-82FE-4324686CF417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125F53D5-1CCF-4DAF-82FE-4324686CF417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125F53D5-1CCF-4DAF-82FE-4324686CF417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125F53D5-1CCF-4DAF-82FE-4324686CF417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED22E57-5C4A-44CC-A90A-934FD413CFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED22E57-5C4A-44CC-A90A-934FD413CFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED22E57-5C4A-44CC-A90A-934FD413CFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED22E57-5C4A-44CC-A90A-934FD413CFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF55D0E-D0B4-41FF-8F49-6EE0ADA95FF6}
+	EndGlobalSection
+EndGlobal
