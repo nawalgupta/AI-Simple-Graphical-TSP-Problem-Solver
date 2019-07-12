@@ -77,8 +77,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\aima-csharp\Simple_Graphical_TSP.csproj">
-      <Project>{125F53D5-1CCF-4DAF-82FE-4324686CF417}</Project>
+    <ProjectReference Include="..\Simple_Graphical_TSP\Simple_Graphical_TSP.csproj">
+      <Project>{125f53d5-1ccf-4daf-82fe-4324686cf417}</Project>
       <Name>Simple_Graphical_TSP</Name>
     </ProjectReference>
   </ItemGroup>
